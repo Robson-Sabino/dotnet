@@ -1,0 +1,14 @@
+C:\projetos\orientação a objetos\02Métodos\obj\Debug\net9.0\02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\orientação a objetos\02Métodos\obj\Debug\net9.0\02Métodos.AssemblyInfoInputs.cache
+C:\projetos\orientação a objetos\02Métodos\obj\Debug\net9.0\02Métodos.AssemblyInfo.cs
+C:\projetos\orientação a objetos\02Métodos\obj\Debug\net9.0\02Métodos.csproj.CoreCompileInputs.cache
+C:\projetos\orientação a objetos\02Métodos\bin\Debug\net9.0\02Métodos.exe
+C:\projetos\orientação a objetos\02Métodos\bin\Debug\net9.0\02Métodos.deps.json
+C:\projetos\orientação a objetos\02Métodos\bin\Debug\net9.0\02Métodos.runtimeconfig.json
+C:\projetos\orientação a objetos\02Métodos\bin\Debug\net9.0\02Métodos.dll
+C:\projetos\orientação a objetos\02Métodos\bin\Debug\net9.0\02Métodos.pdb
+C:\projetos\orientação a objetos\02Métodos\obj\Debug\net9.0\02Métodos.dll
+C:\projetos\orientação a objetos\02Métodos\obj\Debug\net9.0\refint\02Métodos.dll
+C:\projetos\orientação a objetos\02Métodos\obj\Debug\net9.0\02Métodos.pdb
+C:\projetos\orientação a objetos\02Métodos\obj\Debug\net9.0\02Métodos.genruntimeconfig.cache
+C:\projetos\orientação a objetos\02Métodos\obj\Debug\net9.0\ref\02Métodos.dll
