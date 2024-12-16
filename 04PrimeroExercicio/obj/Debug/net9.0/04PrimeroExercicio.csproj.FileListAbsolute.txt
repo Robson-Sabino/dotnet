@@ -1,0 +1,15 @@
+C:\projetos\dotnet\04PrimeroExercicio\bin\Debug\net9.0\04PrimeroExercicio.exe
+C:\projetos\dotnet\04PrimeroExercicio\bin\Debug\net9.0\04PrimeroExercicio.deps.json
+C:\projetos\dotnet\04PrimeroExercicio\bin\Debug\net9.0\04PrimeroExercicio.runtimeconfig.json
+C:\projetos\dotnet\04PrimeroExercicio\bin\Debug\net9.0\04PrimeroExercicio.dll
+C:\projetos\dotnet\04PrimeroExercicio\bin\Debug\net9.0\04PrimeroExercicio.pdb
+C:\projetos\dotnet\04PrimeroExercicio\obj\Debug\net9.0\04PrimeroExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\dotnet\04PrimeroExercicio\obj\Debug\net9.0\04PrimeroExercicio.AssemblyInfoInputs.cache
+C:\projetos\dotnet\04PrimeroExercicio\obj\Debug\net9.0\04PrimeroExercicio.AssemblyInfo.cs
+C:\projetos\dotnet\04PrimeroExercicio\obj\Debug\net9.0\04PrimeroExercicio.csproj.CoreCompileInputs.cache
+C:\projetos\dotnet\04PrimeroExercicio\obj\Debug\net9.0\04PrimeroExercicio.sourcelink.json
+C:\projetos\dotnet\04PrimeroExercicio\obj\Debug\net9.0\04PrimeroExercicio.dll
+C:\projetos\dotnet\04PrimeroExercicio\obj\Debug\net9.0\refint\04PrimeroExercicio.dll
+C:\projetos\dotnet\04PrimeroExercicio\obj\Debug\net9.0\04PrimeroExercicio.pdb
+C:\projetos\dotnet\04PrimeroExercicio\obj\Debug\net9.0\04PrimeroExercicio.genruntimeconfig.cache
+C:\projetos\dotnet\04PrimeroExercicio\obj\Debug\net9.0\ref\04PrimeroExercicio.dll
